@@ -22,4 +22,7 @@ public:
     void MA3(){
         cout << "Alteracao a classe A a partir do clone\n";
     }
+    public int getSoma(int a, int b) {
+    return a + b;
+    }
 };
